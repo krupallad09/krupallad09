@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Full Stack Projects.<br>
 🌱 I’m learning about Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to enhance my understanding of advanced AI and machine learning techniques.<br>
 💬 If you have any questions/feedback, please do not hesitate to contact me! <br>
-📫 How to reach me: krupal.lad0925@gmail.com
+📫 How to reach me: <a href="mailto: krupal.lad786@gmail.com"> krupal.lad786@gmail.com</a>
 
 
 ## 💻 Technical Skills
@@ -52,6 +52,11 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 
+#### IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -65,9 +70,8 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krupallad09&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=krupallad09&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true) 
-
+![](https://github-readme-stats.vercel.app/api?username=krupallad09&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krupallad09&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 ![](https://visitcount.itsvg.in/api?id=krupallad09&icon=3&color=0)
 
