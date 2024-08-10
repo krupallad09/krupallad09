@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 👩🏻‍🎓 Pursuing M. Tech specializing in CSE from Nirma University.<br>
 🔭 I’m currently working on Full Stack Projects.<br>
 🌱 I’m learning about Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to enhance my understanding of advanced AI and machine learning techniques.<br>
-💬 If you have any questions/feedback, please do not hesitate to contact me!
+💬 If you have any questions/feedback, please do not hesitate to contact me! <br>
 📫 How to reach me: krupal.lad0925@gmail.com
 
 
