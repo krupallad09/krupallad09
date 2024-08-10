@@ -69,5 +69,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=krupallad09&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krupallad09&icon=3&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=krupallad09&icon=3&color=0)
 
