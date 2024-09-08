@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">An enthusiastic CSE postgrad with a keen interest in Algorithms, Full Stack Development & DevOps</h3>
 👩🏻‍🎓 Pursuing M. Tech specializing in CSE from Nirma University.<br>
 🔭 I’m currently working on Full Stack Projects.<br>
-🌱 I’m learning about Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to enhance my understanding of advanced AI and machine learning techniques.<br>
+🌱 I’m learning about Deep Learning algorithms to enhance my understanding of machine learning techniques.<br>
 💬 If you have any questions/feedback, please do not hesitate to contact me! <br>
 📫 How to reach me: <a href="mailto: krupal.lad786@gmail.com"> krupal.lad786@gmail.com</a>
 
