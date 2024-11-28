@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 
 
 <!--#### Design-->
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
@@ -84,5 +85,6 @@ Here are some ideas to get you started:
 </table>
 
 ![](https://visitcount.itsvg.in/api?id=krupallad09&icon=3&color=0)
+
 
 
