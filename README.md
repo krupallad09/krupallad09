@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋 Hi, I'm Krupal!</h1>
 <!-- ## 👋 Hi, I'm Krupal!  -->
-<h3 align="center">An enthusiastic CSE postgrad with a keen interest in Data Structures and Algorithms, Full Stack Development & DevOps</h3>
+<h3 align="center">An enthusiastic CSE postgrad with a keen interest in Full Stack Development, DevOps and Algorithms. </h3>
 👩🏻‍🎓 Pursuing M. Tech specializing in CSE from Nirma University.<br>
 🔭 I’m currently working on Full Stack Projects.<br>
 🌱 I’m learning about Deep Learning algorithms to enhance my understanding of machine learning techniques.<br>
