@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![](https://visitcount.itsvg.in/api?id=krupallad09&icon=3&color=0)
+<!-- ![](https://visitcount.itsvg.in/api?id=krupallad09&icon=3&color=0) -->
 
 
 
