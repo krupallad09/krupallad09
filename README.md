@@ -86,5 +86,7 @@ Here are some ideas to get you started:
 
 <!-- ![](https://visitcount.itsvg.in/api?id=krupallad09&icon=3&color=0) -->
 
+<img src="https://komarev.com/ghpvc/?username=krupallad09&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
 
 
